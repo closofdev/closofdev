@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Rais Nafis
+<img src="assets/closof-banner.png" alt="Closof Developer — Fullstack & Software Developer" width="100%" />
+
+<h1>Hi 👋, I'm Closof Developer <img src="assets/verified-badge.svg" alt="Verified" width="30" height="30" align="absmiddle" /></h1>
 
 </div>
 
@@ -38,5 +40,3 @@
 </p>
 
 *"First, solve the problem. Then, write the code."*
-
-
