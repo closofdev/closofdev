@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/closof-banner.png" alt="Closof Developer — Fullstack & Software Developer" width="100%" />
+<img src="closof-banner.png" alt="Closof Developer — Fullstack & Software Developer" width="100%" />
 
 <h1>Hi 👋, I'm Closof Developer <img src="assets/verified-badge.svg" alt="Verified" width="30" height="30" align="absmiddle" /></h1>
 
