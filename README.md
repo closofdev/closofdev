@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="closof-banner.gif" alt="Closof Developer — Fullstack & Software Developer" width="100%" />
+<img src="assets/closof-banner.gif" alt="Closof Developer — Fullstack & Software Developer" width="100%" />
 
-<h1>Hi 👋, I'm Closof Developer <img src="verified-badge.svg" alt="Verified" width="38" height="38" align="absmiddle" /></h1>
+<h1>Hi 👋, I'm Closof Developer <img src="assets/verified-badge.svg" alt="Verified" width="38" height="38" align="absmiddle" /></h1>
 
 </div>
 
 ### Full-Stack & Software Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaisNafis\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fclosofdev&label=Profile%20Views&countColor=%230e75b6&style=flat)
+<!-- Alternatif jika di atas bermasalah: ![Profile Views](https://komarev.com/ghpvc/?username=closofdev&label=Profile%20Views&color=0e75b6&style=flat) -->
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-42-0e75b6?style=flat)
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 <br>
@@ -27,14 +28,14 @@
 
 ## GitHub Stats
 <div align="left">
-  <img align="top" src="https://github-readme-stats.shion.dev/api?username=raisnafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="32%" height="190" alt="GitHub Stats" />
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" width="32%" height="190" alt="GitHub Streak" />
-  <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=raisnafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="32%" height="190" alt="Most Used Languages" />
+  <img align="top" src="https://github-readme-stats.shion.dev/api?username=closofdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="32%" height="190" alt="GitHub Stats" />
+  <img align="top" src="https://streak-stats.demolab.com/?user=closofdev&theme=tokyonight&hide_border=true" width="32%" height="190" alt="GitHub Streak" />
+  <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=closofdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="32%" height="190" alt="Most Used Languages" />
 </div>
 
 ## Connect with me
 <p>
-  <a href="https://github.com/RaisNafis">
+  <a href="https://github.com/closofdev">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
