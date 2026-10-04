@@ -9,7 +9,7 @@
 ### Full-Stack & Software Developer
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fclosofdev&label=Profile%20Views&countColor=%230e75b6&style=flat)
-<!-- Alternatif jika di atas bermasalah: ![Profile Views](https://komarev.com/ghpvc/?username=closofdev&label=Profile%20Views&color=0e75b6&style=flat) -->
+
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-42-0e75b6?style=flat)
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
