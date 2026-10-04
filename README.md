@@ -12,7 +12,6 @@
 <!-- Alternatif jika di atas bermasalah: ![Profile Views](https://komarev.com/ghpvc/?username=closofdev&label=Profile%20Views&color=0e75b6&style=flat) -->
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-42-0e75b6?style=flat)
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
-<br>
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 * Currently building **Web, App, and AI Projects**
