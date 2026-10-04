@@ -19,7 +19,6 @@
 * More interested in **Backend Development**, especially building APIs, databases, authentication systems, and scalable server-side applications
 * Skilled in leveraging **AI-powered development tools and coding agents**, including IDE agents such as **Antigravity and Codex**, as well as CLI agents like **OpenCode, Hermes, and OpenClaw**
 * **4 years of coding experience**
-* **16-year-old SMK student** interest in software engineering and technology
 * Recipient of the **Medallion for Excellence (MoE)** at **LKS National 2026** in **IT Software Solutions for Business**
 
 ## Tech Stack
