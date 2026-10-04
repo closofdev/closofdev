@@ -14,12 +14,13 @@
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-* Currently building **Web, App, and AI Projects**
-* Continuously improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud Technologies**
-* More interested in **Backend Development**, especially building APIs, databases, authentication systems, and scalable server-side applications
-* Skilled in leveraging **AI-powered development tools and coding agents**, including IDE agents such as **Antigravity and Codex**, as well as CLI agents like **OpenCode, Hermes, and OpenClaw**
-* **4 years of coding experience**
+* Currently building **Web, App, and AI Projects**, from clean, user-friendly interfaces to reliable systems that solve real problems
+* Continuously improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud Technologies**, always learning new tools and best practices to write better, cleaner code
+* More interested in **Backend Development**, especially building **APIs, databases, authentication systems, and scalable server-side applications** that stay fast, secure, and easy to maintain
+* Skilled in leveraging **AI-powered development tools and coding agents**, including IDE agents such as **Antigravity and Codex**, as well as CLI agents like **OpenCode, Hermes, and OpenClaw**, to build faster without compromising quality
+* **4 years of coding experience**, turning ideas into working software, from the first line of code to a finished product
 * Recipient of the **Medallion for Excellence (MoE)** at **LKS National 2026** in **IT Software Solutions for Business**
+* Open to discussing ideas, collaborations, and **Web & Mobile App Development** projects, feel free to reach out!
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=20" />
