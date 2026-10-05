@@ -6,7 +6,7 @@
 
 </div>
 
-### Full-Stack & Software Developer
+### Full-Stack & Software Developer  <img src="verified-badge.svg" alt="Verified" width="38" height="38" align="absmiddle" />
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fclosofdev&label=Profile%20Views&countColor=%230e75b6&style=flat)
 
